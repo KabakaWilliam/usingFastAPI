@@ -21,7 +21,7 @@ $ uvicorn main:app --reload
 ```
 http://localhost:8000/
 
-https://localhost:800/home
+https://localhost:8000/home
 ```
 
 Open your browser and then go to `http://localhost:8000/docs#/` to see the docs for the api
